@@ -1,0 +1,75 @@
+# Ignore the Intermediate and Saved directories
+/myFirst3dGame/Intermediate/
+/myFirst3dGame/Saved/
+/myFirst3dGame/DerivedDataCache/
+
+# Ignore project-specific settings
+/myFirst3dGame/Config/DefaultEditor.ini
+/myFirst3dGame/Config/DefaultEditorPerProjectUserSettings.ini
+/myFirst3dGame/Config/DefaultEngine.ini
+/myFirst3dGame/Config/DefaultGame.ini
+/myFirst3dGame/Config/DefaultInput.ini
+/myFirst3dGame/Config/DefaultScalability.ini
+/myFirst3dGame/Config/DefaultServer.ini
+
+# Ignore build products
+/myFirst3dGame/Binaries/
+/myFirst3dGame/Build/
+
+# Ignore project files
+/myFirst3dGame/*.uproject
+/myFirst3dGame/*.uprojectdirs
+
+# Ignore code-generated files
+/myFirst3dGame/*.generated.*
+
+# Ignore user-specific settings and files
+/myFirst3dGame/*.suo
+/myFirst3dGame/*.user
+/myFirst3dGame/*.userosscache
+/myFirst3dGame/*.userprefs
+/myFirst3dGame/*.pdb
+/myFirst3dGame/*.opendb
+/myFirst3dGame/.vscode/
+/myFirst3dGame/.idea/
+
+# Ignore Visual Studio files
+/myFirst3dGame/*.VC.db
+/myFirst3dGame/*.VC.VC.opendb
+
+# Ignore Rider IDE files
+/myFirst3dGame/.idea/
+/myFirst3dGame/.idea_modules/
+
+# Ignore macOS-specific files
+/myFirst3dGame/.DS_Store
+
+# Ignore Windows-specific files
+/myFirst3dGame/Thumbs.db
+/myFirst3dGame/ehthumbs.db
+/myFirst3dGame/Desktop.ini
+
+# Ignore log files
+/myFirst3dGame/*.log
+
+# Ignore temporary files
+/myFirst3dGame/*.temp
+/myFirst3dGame/*.tmp
+/myFirst3dGame/*.cache
+
+# Ignore Unreal Engine specific files
+/myFirst3dGame/*.pid
+/myFirst3dGame/*.dmp
+/myFirst3dGame/*.backup
+/myFirst3dGame/*.old
+/myFirst3dGame/*.swp
+
+# Ignore other IDE-specific files
+/myFirst3dGame/.vscode/
+/myFirst3dGame/.idea/
+/myFirst3dGame/.vscode/*
+/myFirst3dGame/.idea/*
+
+# Ignore temporary files created by operating system
+/myFirst3dGame/.DS_Store
+/myFirst3dGame/$RECYCLE.BIN/
